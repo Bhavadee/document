@@ -1,0 +1,61 @@
+body{
+    height:100vh;
+    display:flex;
+}
+
+.navbar
+{
+    background-color:whitesmoke;
+    border:2px solid black;
+    height: 200vh;
+  width: 280px;
+  position: fixed;
+  font-size: 1-0px;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.main {
+    padding: 40px 10px 8px 5px;
+    flex:1;
+      margin-left: 300px;  
+      }
+    
+  }
+  h2,h3{
+      font-weight: 400;
+      font-size: 20px;
+      padding-left: 20px;
+  }
+  p{
+      font-size:15px;
+      padding:5px 20px 10px 30px;
+      font-family: 'Libre Baskerville', serif;
+  }
+  .nav-link
+  {
+     font-weight: 600;
+  }
+ #header
+ {
+    font-family: 'Libre Baskerville', serif;
+     font-size: 20px;
+     color:black;
+     padding:15px 35px 15px 20px;
+     border:2px solid white;
+
+ }
+
+ #header:hover
+ {
+     color:black;
+ }
+  
+.space
+{
+    padding-bottom: 50px;;
+}
+  
